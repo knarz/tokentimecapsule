@@ -1,0 +1,18 @@
+{
+  "name": "tokentimecapsule",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@digix/tempo": "^0.2.0",
+    "ethereumjs-abi": "^0.6.4",
+    "ethereumjs-testrpc": "^4.1.3",
+    "truffle": "^3.4.11"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "rpc": "testrpc"
+  },
+  "author": "Sascha Hanse <shanse@posteo.de>",
+  "license": "MIT"
+}
